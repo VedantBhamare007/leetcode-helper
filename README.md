@@ -1,7 +1,7 @@
 # LeetCode Helper
 
-LeetCode Helper is a Codex skill for solving LeetCode-style coding interview
-problems with optimized solutions and detailed explanations.
+LeetCode Helper is a Codex and Claude skill for solving LeetCode-style coding
+interview problems with optimized solutions and detailed explanations.
 
 ## Owner
 
@@ -23,8 +23,8 @@ When you paste a LeetCode problem, this skill guides the agent to provide:
 
 ## Skill Files
 
-- `SKILL.md`: Skill metadata and high-level instructions.
-- `AGENTS.md`: Detailed behavior rules, answer format, and examples.
+- `SKILL.md`: Skill metadata and high-level instructions for Codex or Claude.
+- `AGENTS.md`: Detailed behavior rules, answer format, and examples for AI agents.
 
 ## Example Use
 
